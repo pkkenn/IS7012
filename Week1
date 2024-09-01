@@ -1,1 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Kenneth Alexis - Resume</title>
+</head>
+<body style="margin: auto; width: 900px; font-family: Arial, sans-serif;">
+   <div>
+     <span style="text-align: left; font-size: 24px">
+     KENNETH <b> ALEXIS </b>
+     </span>
+        		<span style="float: right;">Email: kennethalexis2018@gmail.com</span> <br>
+       		 	<span style="float: right;">CINCINNATI, OHIO</span> <br>
+  
+    <span style="text-align: left; font-size: 19px">
+    SKILLS
+    </span>  	 
+    <span style="float: right;">LinkedIn: <a href="https://linkedin.com/in/kennethalexis">linkedin.com/in/kennethalexis</a>
+    </span>
+							<hr>
+    </div>					
+	
+	<p>
+	TECHNICAL
+	<br> <i>SQL, ERWin, Excel, Access, Python, ORACLE RDMS, HTML, CSS, C#, R and RStudio, .Net, JavaScript, Amazon RDS, Aurora, DocumentDB, Database Migration 	      Services, JAM, S3, VPC, (plus a multitude range of AWS Services)</i>
+	</p>
+    <ul>
+        <li>Solved multiple complex connection issues utilizing private RDS instances hosted in virtual private networks</li>
+        <li>Helped deploy secure solutions utilizing IAM, KMS AWS services and Aurora to migrate data securely</li>
+    </ul>
+
+       <p>LANGUAGES
+    <br> <i>Swahili (Native/Bilingual Proficiency), English</i>
+       </p>
+    <span style="text-align: left; font-size: 19px">
+    WORK EXPERIENCE
+    </span>
+    							<hr>
+    <div>
+        <p>CLOUD SUPPORT ENGINEER I | <i>Amazon Web Services </i> | Virtual - Cincinnati, OHIO    <span style="float: right;"> June 2023 - Present</span>
+        <ul>
+            <li>Promoted to tier one engineer after rigorous testing and achieving over engineer goals</li>
+            <li>Enhanced knowledge of AWS Database skills and many other AWS services; AWS Security, Storage, Organizations, Applications as cloud architectural services</li>
+        </ul>
+	</p>
+    </div>
+    <div>
+        <p>CLOUD SUPPORT ASSOCIATE | <i>Amazon Web Services </i> | Virtual - Cincinnati, OHIO <span style="float: right;"> September 2022 - May 2023</span>
+        <ul>
+            <li>Specialized Database Support Engineer with industry-leading technical abilities. Solving problems at root through broad demonstration of AWS knowledge; MySQL, SQL Server, 		Oracle, PostgreSQL, Aurora, DocumentDB, and Database Migration Services</li>
+        </ul>
+	</p>
+    </div>
+    <div>
+        <p>CLOUD SUPPORT ENGINEER INTERN | <i>Amazon Web Services </i> | Dallas, TEXAS <span style="float: right;"> June 2022 - August 2022</span>
+        <ul>
+            <li>Gained knowledge of Linux/Unix operating systems, Basic shell or other scripting language</li>
+            <li>Gained knowledge of cloud computing and IaaS/PaaS cloud providers services</li>
+            <li>AWS Cloud Certified gaining - Amazon Web Services, Google Compute Platform, Microsoft Azure skills</li>
+            <li>Familiarized with security standards including NIST/FedRAMP, ISO 27001/2, HIPAA Security Rule, PCI DSS as well as an understanding of security auditing, risk management, 		vulnerability assessments, and incident management</li>
+        </ul>
+	</p>
+    </div>
+
+    <div>
+    <span style="text-align: left; font-size: 19px">
+    EDUCATION
+    </span>
+    							<hr>
+        <p>UNIVERSITY OF CINCINNATI | CARL H. LINDNER COLLEGE OF BUSINESS | Cincinnati, OHIO <span style="float: right;">Graduated: April 2022</span>
+	Bachelor of Business Administration, Major: Information Systems, Minor: Information Technology
+        <ul>
+		<li>GPA: 3.2, Dean's List Recipient</li>
+        	<li>Relevant Coursework: Database Design, Web Development with .NET, Business Analytics, Human Computer Interactions</li>
+        </p> 
+    </div>
+    <div>
+        <p>WITHROW UNIVERSITY HIGH SCHOOL | Cincinnati, OHIO  <span style="float: right;"> Graduated: May 2018</span>
+<br>
+        <span style="text-align: left;"> <i>Valedictorian:</i> Graduated highest GPA 1 out of 220 senior graduates </span>
+	</p>
+    </div>
+
+    <div>
+    <span style="text-align: left; font-size: 19px">
+    LEADERSHIP AND COMMUNITY ENGAGEMENT
+    </span>
+    							<hr>
+        <p>HONORS STUDENT | <i>University of Cincinnati Honors Program</i> | Cincinnati, OHIO  <span style="float: right;"> August 2018 - April 2022</span>
+        <ul>
+            <li>Honored as top 7% of University of Cincinnati's undergraduate students</li>
+            <li>Gained leadership skills by connecting with campus resources to develop myself as a global citizen</li>
+            <li>Experienced a trip to multiple Fortune 500 companies' headquarters in New York to build my network</li>
+        </ul>
+	</p>
+    </div>
+    <div>
+        <p>GEN-1 Ambassador| <i>University of Cincinnati</i> | Cincinnati, OHIO <span style="float: right;"> May 2018 - April 2022</span>
+        <ul>
+            <li>Gen-1 scholars are first generation to attend college in family and high performers in high school</li>
+            <li>Represented Gen-1 through activities, volunteering, and speaking to audiences</li>
+        </ul>
+	</p>
+    </div>
+    <div>
+        <p>EXECUTIVE CO-PRESIDENT | <i>Advance</i> | Cincinnati, OHIO <span style="float: right;">August 2020 - April 2022</span>
+        <ul>
+            <li>Led 10 executive board members and 50+ active members in professionalism programs and events</li>
+            <li>Hosted over 15 events while leading the marketing, programming, public relations, and IT team</li>
+            <li>Communicated with employers, recruiters to connect students of color to job opportunities</li>
+        </ul>
+	</p>
+    </div>
+
+</body>
+</html>
 
