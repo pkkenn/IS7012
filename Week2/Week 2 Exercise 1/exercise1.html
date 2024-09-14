@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Food Order Form</title>
+    <link rel="stylesheet" href="exercise1Style.css">
+</head>
+<body>
+    <h1>Ordering Some Real Nice Food</h1>
+    <form action="/submit-order" method="post">
+        <dl>
+            <dt>Pizza</dt>
+            <dd>
+                <label for="pizza-size">Size:</label>
+                <select id="pizza-size" name="pizza-size">
+                    <option value="small">Small</option>
+                    <option value="medium">Medium</option>
+                    <option value="large">Large</option>
+                </select>
+                <label for="pizza-quantity">Quantity:</label>
+                <input type="number" id="pizza-quantity" name="numPizzaQuantity" min="0" max="10">
+            </dd>
+            <dt>Burger</dt>
+            <dd>
+                <label for="burger-size">Size:</label>
+                <select id="burger-size" name="burger-size">
+                    <option value="single">Single</option>
+                    <option value="double">Double</option>
+                </select>
+                <label for="burger-quantity">Quantity:</label>
+                <input type="number" id="burger-quantity" name="numBurgerQuantity" min="0" max="10">
+            </dd>
+            <dt>Salad</dt>
+            <dd>
+                <label for="salad-type">Type:</label>
+                <select id="salad-type" name="salad-type">
+                    <option value="caesar">Caesar</option>
+                    <option value="garden">Garden</option>
+                    <option value="greek">Greek</option>
+                </select>
+                <label for="salad-quantity">Quantity:</label>
+                <input type="number" id="salad-quantity" name="numSaladQuantity" min="1" max="10">
+            </dd>
+        </dl>
+        <button type="submit">Submit Order</button>
+    </form>
+</body>
+</html>
