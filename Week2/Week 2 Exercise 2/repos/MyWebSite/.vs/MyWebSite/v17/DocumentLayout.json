@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\repos\\MyWebSite\\",
+  "WorkspaceRootPath": "C:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\IS7012\\Week2\\Week 2 Exercise 2\\repos\\MyWebSite\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{13FC676A-4EB4-4BC8-BD51-5A4895CC02F3}|MyWebSite\\MyWebSite.csproj|c:\\users\\alexiskh\\onedrive - university of cincinnati\\ms_is\\is.7012.webdevelopment.net\\repos\\mywebsite\\mywebsite\\pages\\exercise2diceroller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{13FC676A-4EB4-4BC8-BD51-5A4895CC02F3}|MyWebSite\\MyWebSite.csproj|c:\\users\\alexiskh\\onedrive - university of cincinnati\\ms_is\\is.7012.webdevelopment.net\\is7012\\week2\\week 2 exercise 2\\repos\\mywebsite\\mywebsite\\pages\\exercise2diceroller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{13FC676A-4EB4-4BC8-BD51-5A4895CC02F3}|MyWebSite\\MyWebSite.csproj|solutionrelative:mywebsite\\pages\\exercise2diceroller.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13FC676A-4EB4-4BC8-BD51-5A4895CC02F3}|MyWebSite\\MyWebSite.csproj|c:\\users\\alexiskh\\onedrive - university of cincinnati\\ms_is\\is.7012.webdevelopment.net\\repos\\mywebsite\\mywebsite\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{13FC676A-4EB4-4BC8-BD51-5A4895CC02F3}|MyWebSite\\MyWebSite.csproj|c:\\users\\alexiskh\\onedrive - university of cincinnati\\ms_is\\is.7012.webdevelopment.net\\is7012\\week2\\week 2 exercise 2\\repos\\mywebsite\\mywebsite\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{13FC676A-4EB4-4BC8-BD51-5A4895CC02F3}|MyWebSite\\MyWebSite.csproj|solutionrelative:mywebsite\\pages\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13FC676A-4EB4-4BC8-BD51-5A4895CC02F3}|MyWebSite\\MyWebSite.csproj|c:\\users\\alexiskh\\onedrive - university of cincinnati\\ms_is\\is.7012.webdevelopment.net\\repos\\mywebsite\\mywebsite\\pages\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{13FC676A-4EB4-4BC8-BD51-5A4895CC02F3}|MyWebSite\\MyWebSite.csproj|c:\\users\\alexiskh\\onedrive - university of cincinnati\\ms_is\\is.7012.webdevelopment.net\\is7012\\week2\\week 2 exercise 2\\repos\\mywebsite\\mywebsite\\pages\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{13FC676A-4EB4-4BC8-BD51-5A4895CC02F3}|MyWebSite\\MyWebSite.csproj|solutionrelative:mywebsite\\pages\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
@@ -26,46 +26,43 @@
           "Children": [
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Exercise2DiceRoller.cshtml",
-              "DocumentMoniker": "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\repos\\MyWebSite\\MyWebSite\\Pages\\Exercise2DiceRoller.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\IS7012\\Week2\\Week 2 Exercise 2\\repos\\MyWebSite\\MyWebSite\\Pages\\Exercise2DiceRoller.cshtml",
               "RelativeDocumentMoniker": "MyWebSite\\Pages\\Exercise2DiceRoller.cshtml",
-              "ToolTip": "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\repos\\MyWebSite\\MyWebSite\\Pages\\Exercise2DiceRoller.cshtml*",
-              "RelativeToolTip": "MyWebSite\\Pages\\Exercise2DiceRoller.cshtml*",
+              "ToolTip": "C:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\IS7012\\Week2\\Week 2 Exercise 2\\repos\\MyWebSite\\MyWebSite\\Pages\\Exercise2DiceRoller.cshtml",
+              "RelativeToolTip": "MyWebSite\\Pages\\Exercise2DiceRoller.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T11:07:03.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T11:07:03.646Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "_Layout.cshtml",
-              "DocumentMoniker": "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\repos\\MyWebSite\\MyWebSite\\Pages\\Shared\\_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\IS7012\\Week2\\Week 2 Exercise 2\\repos\\MyWebSite\\MyWebSite\\Pages\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "MyWebSite\\Pages\\Shared\\_Layout.cshtml",
-              "ToolTip": "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\repos\\MyWebSite\\MyWebSite\\Pages\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\IS7012\\Week2\\Week 2 Exercise 2\\repos\\MyWebSite\\MyWebSite\\Pages\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "MyWebSite\\Pages\\Shared\\_Layout.cshtml",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABwAAABmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T10:57:17.25Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T10:57:17.25Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "AboutUs.cshtml",
-              "DocumentMoniker": "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\repos\\MyWebSite\\MyWebSite\\Pages\\AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\IS7012\\Week2\\Week 2 Exercise 2\\repos\\MyWebSite\\MyWebSite\\Pages\\AboutUs.cshtml",
               "RelativeDocumentMoniker": "MyWebSite\\Pages\\AboutUs.cshtml",
-              "ToolTip": "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\repos\\MyWebSite\\MyWebSite\\Pages\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\IS7012\\Week2\\Week 2 Exercise 2\\repos\\MyWebSite\\MyWebSite\\Pages\\AboutUs.cshtml",
               "RelativeToolTip": "MyWebSite\\Pages\\AboutUs.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-09-11T10:52:35.721Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-11T10:52:35.721Z"
             }
           ]
         }
