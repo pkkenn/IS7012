@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\pkkenn\\IS7012\\Week3\\Week 3 Exercise 1\\Week 3 Exercise 1.csproj": {}
+    "c:\\users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\7012 Web Dev\\IS7012\\Week3\\Week 3 Exercise 1\\Week 3 Exercise 1.csproj": {}
   },
   "projects": {
-    "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\pkkenn\\IS7012\\Week3\\Week 3 Exercise 1\\Week 3 Exercise 1.csproj": {
+    "c:\\users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\7012 Web Dev\\IS7012\\Week3\\Week 3 Exercise 1\\Week 3 Exercise 1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\pkkenn\\IS7012\\Week3\\Week 3 Exercise 1\\Week 3 Exercise 1.csproj",
+        "projectUniqueName": "c:\\users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\7012 Web Dev\\IS7012\\Week3\\Week 3 Exercise 1\\Week 3 Exercise 1.csproj",
         "projectName": "Week 3 Exercise 1",
-        "projectPath": "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\pkkenn\\IS7012\\Week3\\Week 3 Exercise 1\\Week 3 Exercise 1.csproj",
+        "projectPath": "c:\\users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\7012 Web Dev\\IS7012\\Week3\\Week 3 Exercise 1\\Week 3 Exercise 1.csproj",
         "packagesPath": "C:\\Users\\alexiskh\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\pkkenn\\IS7012\\Week3\\Week 3 Exercise 1\\obj\\",
+        "outputPath": "c:\\users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\7012 Web Dev\\IS7012\\Week3\\Week 3 Exercise 1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alexiskh\\AppData\\Roaming\\NuGet\\NuGet.Config",

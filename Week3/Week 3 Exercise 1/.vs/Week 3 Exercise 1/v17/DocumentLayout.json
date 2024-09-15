@@ -1,14 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\pkkenn\\IS7012\\Week3\\Week 3 Exercise 1\\",
+  "WorkspaceRootPath": "C:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\7012 Web Dev\\IS7012\\Week3\\Week 3 Exercise 1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CB88A9AD-A9E9-4193-B001-ABEB6957CD01}|Week 3 Exercise 1.csproj|c:\\users\\alexiskh\\onedrive - university of cincinnati\\ms_is\\is.7012.webdevelopment.net\\pkkenn\\is7012\\week3\\week 3 exercise 1\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CB88A9AD-A9E9-4193-B001-ABEB6957CD01}|Week 3 Exercise 1.csproj|c:\\users\\alexiskh\\onedrive - university of cincinnati\\ms_is\\7012 web dev\\is7012\\week3\\week 3 exercise 1\\models\\jobtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB88A9AD-A9E9-4193-B001-ABEB6957CD01}|Week 3 Exercise 1.csproj|solutionrelative:models\\jobtitle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB88A9AD-A9E9-4193-B001-ABEB6957CD01}|Week 3 Exercise 1.csproj|c:\\users\\alexiskh\\onedrive - university of cincinnati\\ms_is\\7012 web dev\\is7012\\week3\\week 3 exercise 1\\models\\industry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB88A9AD-A9E9-4193-B001-ABEB6957CD01}|Week 3 Exercise 1.csproj|solutionrelative:models\\industry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB88A9AD-A9E9-4193-B001-ABEB6957CD01}|Week 3 Exercise 1.csproj|c:\\users\\alexiskh\\onedrive - university of cincinnati\\ms_is\\7012 web dev\\is7012\\week3\\week 3 exercise 1\\models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB88A9AD-A9E9-4193-B001-ABEB6957CD01}|Week 3 Exercise 1.csproj|solutionrelative:models\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB88A9AD-A9E9-4193-B001-ABEB6957CD01}|Week 3 Exercise 1.csproj|c:\\users\\alexiskh\\onedrive - university of cincinnati\\ms_is\\7012 web dev\\is7012\\week3\\week 3 exercise 1\\models\\accountholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB88A9AD-A9E9-4193-B001-ABEB6957CD01}|Week 3 Exercise 1.csproj|solutionrelative:models\\accountholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CB88A9AD-A9E9-4193-B001-ABEB6957CD01}|Week 3 Exercise 1.csproj|c:\\users\\alexiskh\\onedrive - university of cincinnati\\ms_is\\7012 web dev\\is7012\\week3\\week 3 exercise 1\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CB88A9AD-A9E9-4193-B001-ABEB6957CD01}|Week 3 Exercise 1.csproj|solutionrelative:models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CB88A9AD-A9E9-4193-B001-ABEB6957CD01}|Week 3 Exercise 1.csproj|c:\\users\\alexiskh\\onedrive - university of cincinnati\\ms_is\\is.7012.webdevelopment.net\\pkkenn\\is7012\\week3\\week 3 exercise 1\\models\\accountholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CB88A9AD-A9E9-4193-B001-ABEB6957CD01}|Week 3 Exercise 1.csproj|solutionrelative:models\\accountholder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CB88A9AD-A9E9-4193-B001-ABEB6957CD01}|Week 3 Exercise 1.csproj|c:\\users\\alexiskh\\onedrive - university of cincinnati\\ms_is\\7012 web dev\\is7012\\week3\\week 3 exercise 1\\models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CB88A9AD-A9E9-4193-B001-ABEB6957CD01}|Week 3 Exercise 1.csproj|solutionrelative:models\\candidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,15 +42,71 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Industry.cs",
+              "DocumentMoniker": "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\7012 Web Dev\\IS7012\\Week3\\Week 3 Exercise 1\\Models\\Industry.cs",
+              "RelativeDocumentMoniker": "Models\\Industry.cs",
+              "ToolTip": "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\7012 Web Dev\\IS7012\\Week3\\Week 3 Exercise 1\\Models\\Industry.cs",
+              "RelativeToolTip": "Models\\Industry.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T22:15:53.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "JobTitle.cs",
+              "DocumentMoniker": "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\7012 Web Dev\\IS7012\\Week3\\Week 3 Exercise 1\\Models\\JobTitle.cs",
+              "RelativeDocumentMoniker": "Models\\JobTitle.cs",
+              "ToolTip": "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\7012 Web Dev\\IS7012\\Week3\\Week 3 Exercise 1\\Models\\JobTitle.cs",
+              "RelativeToolTip": "Models\\JobTitle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T22:15:30.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Company.cs",
+              "DocumentMoniker": "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\7012 Web Dev\\IS7012\\Week3\\Week 3 Exercise 1\\Models\\Company.cs",
+              "RelativeDocumentMoniker": "Models\\Company.cs",
+              "ToolTip": "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\7012 Web Dev\\IS7012\\Week3\\Week 3 Exercise 1\\Models\\Company.cs",
+              "RelativeToolTip": "Models\\Company.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T22:15:14.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Candidate.cs",
+              "DocumentMoniker": "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\7012 Web Dev\\IS7012\\Week3\\Week 3 Exercise 1\\Models\\Candidate.cs",
+              "RelativeDocumentMoniker": "Models\\Candidate.cs",
+              "ToolTip": "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\7012 Web Dev\\IS7012\\Week3\\Week 3 Exercise 1\\Models\\Candidate.cs",
+              "RelativeToolTip": "Models\\Candidate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-15T22:14:56.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "AccountHolder.cs",
-              "DocumentMoniker": "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\pkkenn\\IS7012\\Week3\\Week 3 Exercise 1\\Models\\AccountHolder.cs",
+              "DocumentMoniker": "C:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\7012 Web Dev\\IS7012\\Week3\\Week 3 Exercise 1\\Models\\AccountHolder.cs",
               "RelativeDocumentMoniker": "Models\\AccountHolder.cs",
-              "ToolTip": "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\pkkenn\\IS7012\\Week3\\Week 3 Exercise 1\\Models\\AccountHolder.cs",
+              "ToolTip": "C:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\7012 Web Dev\\IS7012\\Week3\\Week 3 Exercise 1\\Models\\AccountHolder.cs",
               "RelativeToolTip": "Models\\AccountHolder.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -43,16 +115,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "BankAccount.cs",
-              "DocumentMoniker": "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\pkkenn\\IS7012\\Week3\\Week 3 Exercise 1\\Models\\BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\7012 Web Dev\\IS7012\\Week3\\Week 3 Exercise 1\\Models\\BankAccount.cs",
               "RelativeDocumentMoniker": "Models\\BankAccount.cs",
-              "ToolTip": "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\pkkenn\\IS7012\\Week3\\Week 3 Exercise 1\\Models\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\7012 Web Dev\\IS7012\\Week3\\Week 3 Exercise 1\\Models\\BankAccount.cs",
               "RelativeToolTip": "Models\\BankAccount.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-15T20:18:05.682Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }
