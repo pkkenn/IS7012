@@ -1,0 +1,72 @@
+{
+  "format": 1,
+  "restore": {
+    "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\pkkenn\\IS7012\\Week3\\Week 3 Exercise 1\\Week 3 Exercise 1.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\pkkenn\\IS7012\\Week3\\Week 3 Exercise 1\\Week 3 Exercise 1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\pkkenn\\IS7012\\Week3\\Week 3 Exercise 1\\Week 3 Exercise 1.csproj",
+        "projectName": "Week 3 Exercise 1",
+        "projectPath": "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\pkkenn\\IS7012\\Week3\\Week 3 Exercise 1\\Week 3 Exercise 1.csproj",
+        "packagesPath": "C:\\Users\\alexiskh\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\IS.7012.WebDevelopment.Net\\pkkenn\\IS7012\\Week3\\Week 3 Exercise 1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\alexiskh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

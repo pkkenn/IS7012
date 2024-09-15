@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\OneDrive\\Desktop\\IS.7012.WebDevelopment.Net\\pkkenn\\IS7012\\",
+  "WorkspaceRootPath": "C:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\Ms_Is\\7012\\IS7012\\",
   "Documents": [],
   "DocumentGroupContainers": [
     {
@@ -17,7 +17,11 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             }
           ]
         }
