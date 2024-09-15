@@ -1,11 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\.github\\workflows",
-    "\\uc_alexiskh",
-    "\\Week1",
-    "\\Week2"
+    "\\Week2",
+    "\\Week2\\RecruitCatAlexiskh",
+    "\\Week2\\RecruitCatAlexiskh\\Pages",
+    "\\Week2\\RecruitCatAlexiskh\\Pages\\Shared"
   ],
-  "SelectedNode": "\\Week2",
   "PreviewInSolutionExplorer": false
 }
