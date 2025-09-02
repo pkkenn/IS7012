@@ -1,54 +1,100 @@
+:root {
+    --uc-red: #E00122;
+    --uc-black: #000000;
+    --uc-gray: #666666;
+    --light-gray: #f5f5f5;
+}
+
 body {
     font-family: Arial, sans-serif;
     margin: 2em;
     line-height: 1.6;
-    background-color: #f5f5f5;
+    background-color: var(--light-gray);
+    color: var(--uc-black);
 }
 
 h1, h2, h3 {
-    color: #2c3e50;
+    color: var(--uc-red);
     font-family: 'Georgia', serif;
 }
 
 h1 {
     text-align: center;
     font-size: 2.5em;
+    border-bottom: 3px solid var(--uc-red);
+    padding-bottom: 10px;
 }
 
 h2 {
     text-align: center;
+    border-bottom: 2px solid var(--uc-red);
+    padding-bottom: 5px;
+    margin-top: 30px;
 }
 
 table {
     width: 100%;
     border-collapse: collapse;
     margin: 20px 0;
+    background-color: white;
 }
 
 th, td {
     padding: 12px;
     text-align: left;
-    border: 1px solid #ddd;
+    border: 1px solid var(--uc-gray);
 }
 
 th {
-    background-color: #2c3e50;
+    background-color: var(--uc-red);
     color: white;
 }
 
 img {
     max-width: 300px;
-    margin: 20px 0;
+    margin: 20px auto;
     border-radius: 10px;
+    display: block;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
 }
 
 a {
-    color: #3498db;
+    color: var(--uc-red);
     text-decoration: none;
+    transition: all 0.3s ease;
 }
 
 a:hover {
     text-decoration: underline;
+    color: #980116;
+}
+
+.contact-info {
+    text-align: center;
+    margin-bottom: 2em;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.section {
+    margin-bottom: 2em;
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+}
+
+.job, .education-item {
+    margin-bottom: 1.5em;
+    padding: 10px;
+    border-left: 3px solid var(--uc-red);
+}
+
+ul {
+    list-style-type: disc;
+    margin-left: 2em;
 }
 
 .hobby-section {
@@ -57,26 +103,5 @@ a:hover {
     background-color: white;
     border-radius: 5px;
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-}
-
-.contact-info {
-    text-align: center;
-    margin-bottom: 2em;
-}
-
-.section {
-    margin-bottom: 2em;
-}
-
-.job {
-    margin-bottom: 1.5em;
-}
-
-.education-item {
-    margin-bottom: 1.5em;
-}
-
-ul {
-    list-style-type: disc;
-    margin-left: 2em;
+    border-left: 3px solid var(--uc-red);
 }
