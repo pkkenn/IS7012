@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Food Order Form</title>
+    <link rel="stylesheet" href="exercise1Style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>🍽️ Order Your Favorite Food</h1>
+        <form action="/submit-order" method="post">
+            <div class="form-section">
+                <h2>🍕 Pizza</h2>
+                <dl>
+                    <dd>
+                        <label for="pizza-size">Size:</label>
+                        <select id="pizza-size" name="pizza-size">
+                            <option value="small">Small ($10)</option>
+                            <option value="medium">Medium ($14)</option>
+                            <option value="large">Large ($18)</option>
+                        </select>
+                        <label for="pizza-quantity">Quantity:</label>
+                        <input type="number" id="pizza-quantity" name="numPizzaQuantity" min="0" max="10" value="0">
+                    </dd>
+                </dl>
+            </div>
+
+            <div class="form-section">
+                <h2>🍔 Burger</h2>
+                <dl>
+                    <dd>
+                        <label for="burger-size">Size:</label>
+                        <select id="burger-size" name="burger-size">
+                            <option value="single">Single ($8)</option>
+                            <option value="double">Double ($12)</option>
+                        </select>
+                        <label for="burger-quantity">Quantity:</label>
+                        <input type="number" id="burger-quantity" name="numBurgerQuantity" min="0" max="10" value="0">
+                    </dd>
+                </dl>
+            </div>
+
+            <div class="form-section">
+                <h2>🥗 Salad</h2>
+                <dl>
+                    <dd>
+                        <label for="salad-type">Type:</label>
+                        <select id="salad-type" name="salad-type">
+                            <option value="caesar">Caesar ($9)</option>
+                            <option value="garden">Garden ($8)</option>
+                            <option value="greek">Greek ($10)</option>
+                        </select>
+                        <label for="salad-quantity">Quantity:</label>
+                        <input type="number" id="salad-quantity" name="numSaladQuantity" min="0" max="10" value="0">
+                    </dd>
+                </dl>
+            </div>
+
+            <div class="contact-info">
+                <h2>📞 Contact Information</h2>
+                <input type="text" placeholder="Your Name" required>
+                <input type="tel" placeholder="Phone Number" required>
+                <textarea placeholder="Delivery Address" required></textarea>
+            </div>
+
+            <button type="submit">Place Order 🚀</button>
+        </form>
+    </div>
+</body>
+</html>
