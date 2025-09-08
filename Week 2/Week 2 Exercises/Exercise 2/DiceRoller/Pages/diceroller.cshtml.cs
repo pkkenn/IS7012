@@ -1,9 +1,9 @@
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 
-namespace MyWebSite.Pages
+namespace diceroller.Pages
 {
-    public class Exercise2DiceRollerModel : PageModel
+    public class DiceRoller : PageModel
     {
         public void OnGet()
         {
