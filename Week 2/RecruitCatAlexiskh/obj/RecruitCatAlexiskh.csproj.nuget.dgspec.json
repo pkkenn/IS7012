@@ -1,33 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\OneDrive\\Desktop\\IS7012\\Week2\\RecruitCatAlexiskh\\RecruitCatAlexiskh.csproj": {}
+    "/Users/knas/Desktop/IS7012/Week 2/RecruitCatAlexiskh/RecruitCatAlexiskh.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\OneDrive\\Desktop\\IS7012\\Week2\\RecruitCatAlexiskh\\RecruitCatAlexiskh.csproj": {
+    "/Users/knas/Desktop/IS7012/Week 2/RecruitCatAlexiskh/RecruitCatAlexiskh.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\OneDrive\\Desktop\\IS7012\\Week2\\RecruitCatAlexiskh\\RecruitCatAlexiskh.csproj",
+        "projectUniqueName": "/Users/knas/Desktop/IS7012/Week 2/RecruitCatAlexiskh/RecruitCatAlexiskh.csproj",
         "projectName": "RecruitCatAlexiskh",
-        "projectPath": "C:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\OneDrive\\Desktop\\IS7012\\Week2\\RecruitCatAlexiskh\\RecruitCatAlexiskh.csproj",
-        "packagesPath": "C:\\Users\\alexiskh\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alexiskh\\OneDrive - University of Cincinnati\\OneDrive\\Desktop\\IS7012\\Week2\\RecruitCatAlexiskh\\obj\\",
+        "projectPath": "/Users/knas/Desktop/IS7012/Week 2/RecruitCatAlexiskh/RecruitCatAlexiskh.csproj",
+        "packagesPath": "/Users/knas/.nuget/packages/",
+        "outputPath": "/Users/knas/Desktop/IS7012/Week 2/RecruitCatAlexiskh/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\alexiskh\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/knas/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
-          "net8.0"
+          "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
-          "net8.0": {
-            "targetAlias": "net8.0",
+          "net9.0": {
+            "targetAlias": "net9.0",
             "projectReferences": {}
           }
         },
@@ -40,11 +37,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
-        "net8.0": {
-          "targetAlias": "net8.0",
+        "net9.0": {
+          "targetAlias": "net9.0",
           "imports": [
             "net461",
             "net462",
@@ -64,7 +62,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
