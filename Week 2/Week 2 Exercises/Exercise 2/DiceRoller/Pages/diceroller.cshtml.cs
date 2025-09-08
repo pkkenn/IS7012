@@ -3,7 +3,7 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 
 namespace DiceRoller.Pages
 {
-    public class DicerollerModely : PageModel
+    public class DicerollerModel : PageModel
     {
         public void OnGet()
         {
