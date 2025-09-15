@@ -16,6 +16,15 @@
             <th>
                 @Html.DisplayNameFor(model => model.JobTitle[0].Title)
             </th>
+            <th>
+                @Html.DisplayNameFor(model => model.JobTitle[0].MinSalary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.JobTitle[0].MaxSalary)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.JobTitle[0].IsRemote)
+            </th>
             <th></th>
         </tr>
     </thead>
@@ -24,6 +33,15 @@
         <tr>
             <td>
                 @Html.DisplayFor(modelItem => item.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MinSalary)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MaxSalary)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.IsRemote)
             </td>
             <td>
                 <a asp-page="./Edit" asp-route-id="@item.ID">Edit</a> |

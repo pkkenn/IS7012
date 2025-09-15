@@ -18,6 +18,24 @@
         <dd class="col-sm-10">
             @Html.DisplayFor(model => model.JobTitle.Title)
         </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.JobTitle.MinSalary)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.JobTitle.MinSalary)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.JobTitle.MaxSalary)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.JobTitle.MaxSalary)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.JobTitle.IsRemote)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.JobTitle.IsRemote)
+        </dd>
     </dl>
     
     <form method="post">

@@ -2,6 +2,7 @@
 using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using RecruitCatAlexiskh.Data;
 
@@ -10,9 +11,11 @@ using RecruitCatAlexiskh.Data;
 namespace RecruitCatAlexiskh.Migrations
 {
     [DbContext(typeof(RecruitCatAlexiskhContext))]
-    partial class RecruitCatAlexiskhContextModelSnapshot : ModelSnapshot
+    [Migration("20250915013838_SecondCreate")]
+    partial class SecondCreate
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder.HasAnnotation("ProductVersion", "9.0.9");

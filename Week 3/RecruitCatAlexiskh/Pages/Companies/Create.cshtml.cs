@@ -21,6 +21,7 @@ namespace RecruitCatAlexiskh.Pages.Companies
 
         public IActionResult OnGet()
         {
+        ViewData["IndustryId"] = new SelectList(_context.Industry, "ID", "ID");
             return Page();
         }
 
