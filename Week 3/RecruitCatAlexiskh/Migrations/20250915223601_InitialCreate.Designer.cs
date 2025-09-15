@@ -11,8 +11,8 @@ using RecruitCatAlexiskh.Data;
 namespace RecruitCatAlexiskh.Migrations
 {
     [DbContext(typeof(RecruitCatAlexiskhContext))]
-    [Migration("20250915013838_SecondCreate")]
-    partial class SecondCreate
+    [Migration("20250915223601_InitialCreate")]
+    partial class InitialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
@@ -95,6 +95,10 @@ namespace RecruitCatAlexiskh.Migrations
                         .HasColumnType("INTEGER");
 
                     b.Property<string>("Name")
+                        .IsRequired()
+                        .HasColumnType("TEXT");
+
+                    b.Property<string>("Sector")
                         .IsRequired()
                         .HasColumnType("TEXT");
 

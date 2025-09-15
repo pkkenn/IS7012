@@ -36,7 +36,7 @@ namespace RecruitCatAlexiskh.Pages.Companies
                 return NotFound();
             }
             Company = company;
-           ViewData["IndustryId"] = new SelectList(_context.Industry, "ID", "ID");
+           ViewData["IndustryId"] = new SelectList(_context.Set<Industry>(), "ID", "ID");
             return Page();
         }
 
