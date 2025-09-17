@@ -1,7 +1,12 @@
+using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.DependencyInjection;
+using Week3Ex1_2.Data;
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddRazorPages();
+builder.Services.AddDbContext<Week3Ex1_2Context>(options =>
+    options.UseSqlite(builder.Configuration.GetConnectionString("Week3Ex1_2Context") ?? throw new InvalidOperationException("Connection string 'Week3Ex1_2Context' not found.")));
 
 var app = builder.Build();
 
