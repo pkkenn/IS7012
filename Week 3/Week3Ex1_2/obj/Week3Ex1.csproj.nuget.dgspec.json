@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/knas/Desktop/IS7012/Week 3/Week3Ex1_2/Week3Ex1.csproj": {}
+    "/Users/zken/Desktop/IS7012/Week 3/Week3Ex1_2/Week3Ex1.csproj": {}
   },
   "projects": {
-    "/Users/knas/Desktop/IS7012/Week 3/Week3Ex1_2/Week3Ex1.csproj": {
+    "/Users/zken/Desktop/IS7012/Week 3/Week3Ex1_2/Week3Ex1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/knas/Desktop/IS7012/Week 3/Week3Ex1_2/Week3Ex1.csproj",
+        "projectUniqueName": "/Users/zken/Desktop/IS7012/Week 3/Week3Ex1_2/Week3Ex1.csproj",
         "projectName": "Week3Ex1",
-        "projectPath": "/Users/knas/Desktop/IS7012/Week 3/Week3Ex1_2/Week3Ex1.csproj",
-        "packagesPath": "/Users/knas/.nuget/packages/",
-        "outputPath": "/Users/knas/Desktop/IS7012/Week 3/Week3Ex1_2/obj/",
+        "projectPath": "/Users/zken/Desktop/IS7012/Week 3/Week3Ex1_2/Week3Ex1.csproj",
+        "packagesPath": "/Users/zken/.nuget/packages/",
+        "outputPath": "/Users/zken/Desktop/IS7012/Week 3/Week3Ex1_2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/knas/.nuget/NuGet/NuGet.Config"
+          "/Users/zken/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
@@ -88,7 +88,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.304/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

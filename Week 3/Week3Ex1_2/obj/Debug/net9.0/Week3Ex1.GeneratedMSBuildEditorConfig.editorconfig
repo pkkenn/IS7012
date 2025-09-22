@@ -17,81 +17,81 @@ build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Week3Ex1
 build_property.RootNamespace = Week3Ex1
-build_property.ProjectDir = /Users/knas/Desktop/IS7012/Week 3/Week3Ex1_2/
+build_property.ProjectDir = /Users/zken/Desktop/IS7012/Week 3/Week3Ex1_2/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 9.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = /Users/knas/Desktop/IS7012/Week 3/Week3Ex1_2
+build_property.MSBuildProjectDirectory = /Users/zken/Desktop/IS7012/Week 3/Week3Ex1_2
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 9.0
 build_property.EnableCodeStyleSeverity = 
 
-[/Users/knas/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/AccountHolders/Create.cshtml]
+[/Users/zken/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/AccountHolders/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWNjb3VudEhvbGRlcnMvQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/knas/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/AccountHolders/Delete.cshtml]
+[/Users/zken/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/AccountHolders/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWNjb3VudEhvbGRlcnMvRGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/knas/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/AccountHolders/Details.cshtml]
+[/Users/zken/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/AccountHolders/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWNjb3VudEhvbGRlcnMvRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/knas/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/AccountHolders/Edit.cshtml]
+[/Users/zken/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/AccountHolders/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWNjb3VudEhvbGRlcnMvRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/knas/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/AccountHolders/Index.cshtml]
+[/Users/zken/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/AccountHolders/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQWNjb3VudEhvbGRlcnMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/knas/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/BankAccounts/Create.cshtml]
+[/Users/zken/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/BankAccounts/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQmFua0FjY291bnRzL0NyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/knas/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/BankAccounts/Delete.cshtml]
+[/Users/zken/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/BankAccounts/Delete.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQmFua0FjY291bnRzL0RlbGV0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/knas/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/BankAccounts/Details.cshtml]
+[/Users/zken/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/BankAccounts/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQmFua0FjY291bnRzL0RldGFpbHMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/knas/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/BankAccounts/Edit.cshtml]
+[/Users/zken/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/BankAccounts/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQmFua0FjY291bnRzL0VkaXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/knas/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/BankAccounts/Index.cshtml]
+[/Users/zken/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/BankAccounts/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQmFua0FjY291bnRzL0luZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/knas/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/Error.cshtml]
+[/Users/zken/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/knas/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/Index.cshtml]
+[/Users/zken/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/knas/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/Privacy.cshtml]
+[/Users/zken/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/knas/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/Shared/_ValidationScriptsPartial.cshtml]
+[/Users/zken/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/knas/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/_ViewImports.cshtml]
+[/Users/zken/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/knas/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/_ViewStart.cshtml]
+[/Users/zken/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[/Users/knas/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/Shared/_Layout.cshtml]
+[/Users/zken/Desktop/IS7012/Week 3/Week3Ex1_2/Pages/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-dnh6kjcg4f
