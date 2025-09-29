@@ -1,0 +1,43 @@
+@page
+@model RecruitCatAlexiskh.Pages.JobTitles.DetailsModel
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>JobTitle</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.JobTitle.Title)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.JobTitle.Title)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.JobTitle.MinSalary)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.JobTitle.MinSalary)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.JobTitle.MaxSalary)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.JobTitle.MaxSalary)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.JobTitle.IsRemote)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.JobTitle.IsRemote)
+        </dd>
+    </dl>
+</div>
+<div>
+    <a asp-page="./Edit" asp-route-id="@Model.JobTitle.ID">Edit</a> |
+    <a asp-page="./Index">Back to List</a>
+</div>

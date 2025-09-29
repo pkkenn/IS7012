@@ -27,19 +27,15 @@ namespace Week3Ex1.Migrations
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Email")
-                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<string>("FirstName")
-                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<string>("LastName")
-                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<string>("PhoneNumber")
-                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.HasKey("ID");
@@ -53,26 +49,24 @@ namespace Week3Ex1.Migrations
                         .ValueGeneratedOnAdd()
                         .HasColumnType("INTEGER");
 
-                    b.Property<int>("AccountHolderID")
+                    b.Property<int>("AccountHolderId")
                         .HasColumnType("INTEGER");
 
                     b.Property<decimal>("CurrentBalance")
-                        .HasColumnType("TEXT");
+                        .HasColumnType("decimal(18, 2)");
 
                     b.Property<DateTime>("DateOpened")
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Name")
-                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Number")
-                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.HasKey("ID");
 
-                    b.HasIndex("AccountHolderID");
+                    b.HasIndex("AccountHolderId");
 
                     b.ToTable("BankAccount");
                 });
@@ -80,17 +74,12 @@ namespace Week3Ex1.Migrations
             modelBuilder.Entity("Week3Ex1_2.Models.BankAccount", b =>
                 {
                     b.HasOne("Week3Ex1_2.Models.AccountHolder", "AccountHolder")
-                        .WithMany("BankAccounts")
-                        .HasForeignKey("AccountHolderID")
+                        .WithMany()
+                        .HasForeignKey("AccountHolderId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
                     b.Navigation("AccountHolder");
-                });
-
-            modelBuilder.Entity("Week3Ex1_2.Models.AccountHolder", b =>
-                {
-                    b.Navigation("BankAccounts");
                 });
 #pragma warning restore 612, 618
         }

@@ -19,11 +19,12 @@ namespace Week3Ex1.Pages.BankAccounts
             _context = context;
         }
 
-        public IList<BankAccount> BankAccount { get;set; } = default!;
+        public IList<BankAccount> BankAccount { get;set; }
 
         public async Task OnGetAsync()
         {
-            BankAccount = await _context.BankAccount.ToListAsync();
+            BankAccount = await _context.BankAccount
+            .Include(b => b.AccountHolder).ToListAsync();
         }
     }
 }

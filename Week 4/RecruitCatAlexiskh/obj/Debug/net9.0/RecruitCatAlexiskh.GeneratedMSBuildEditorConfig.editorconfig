@@ -1,0 +1,141 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RecruitCatAlexiskh
+build_property.RootNamespace = RecruitCatAlexiskh
+build_property.ProjectDir = /Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = /Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/Candidates/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FuZGlkYXRlcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/Candidates/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FuZGlkYXRlcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/Candidates/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FuZGlkYXRlcy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/Candidates/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FuZGlkYXRlcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/Candidates/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ2FuZGlkYXRlcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/Companies/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcGFuaWVzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/Companies/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcGFuaWVzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/Companies/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcGFuaWVzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/Companies/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcGFuaWVzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/Companies/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvQ29tcGFuaWVzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/Industries/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kdXN0cmllcy9DcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/Industries/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kdXN0cmllcy9EZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/Industries/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kdXN0cmllcy9EZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/Industries/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kdXN0cmllcy9FZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/Industries/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSW5kdXN0cmllcy9JbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/JobTitles/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSm9iVGl0bGVzL0NyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/JobTitles/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSm9iVGl0bGVzL0RlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/JobTitles/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSm9iVGl0bGVzL0RldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/JobTitles/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSm9iVGl0bGVzL0VkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/JobTitles/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvSm9iVGl0bGVzL0luZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/OurTeam.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvT3VyVGVhbS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[/Users/zken/Desktop/IS7012/Week 4/RecruitCatAlexiskh/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXMvU2hhcmVkL19MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-crz041qm9s

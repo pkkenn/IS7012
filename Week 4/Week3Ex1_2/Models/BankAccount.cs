@@ -1,6 +1,7 @@
 using System.ComponentModel;
 using System.ComponentModel.DataAnnotations;
-using System.ComponentModel.DataAnnotations.Schema; 
+using System.ComponentModel.DataAnnotations.Schema;
+using System;
 
 namespace Week3Ex1_2.Models
 {
@@ -9,7 +10,7 @@ namespace Week3Ex1_2.Models
         public int ID { get; set; }
         
         [Display(Name = "Account Number")]
-        public string Number { get; set; }
+        public string? Number { get; set; } 
 
         [Display(Name = "Current Balance")]
         [DataType(DataType.Currency)]
@@ -17,7 +18,7 @@ namespace Week3Ex1_2.Models
         public decimal CurrentBalance { get; set; }
 
         [Display(Name = "Account Nickname")]
-        public string Name { get; set; }
+        public string? Name { get; set; } 
 
         [Display(Name = "Date Opened")]
         [DataType(DataType.Date)]
@@ -26,6 +27,6 @@ namespace Week3Ex1_2.Models
         [Display(Name = "Account Holder")]
         public int AccountHolderId { get; set; }
 
-        public AccountHolder AccountHolder { get; set; }
+        public AccountHolder? AccountHolder { get; set; } 
     }
 }

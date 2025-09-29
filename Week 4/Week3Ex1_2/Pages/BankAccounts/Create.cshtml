@@ -1,18 +1,18 @@
 @page
 @model Week3Ex1.Pages.BankAccounts.CreateModel
 
-        @{
-        ViewData["Title"] = "Create";
-        }
-        
-        <h1>Create</h1>
-        
-    <h4>BankAccount</h4>
-    <hr />
-    <div class="row">
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h1>Create</h1>
+
+<h4>BankAccount</h4>
+<hr />
+<div class="row">
     <div class="col-md-4">
-    <form method="post">
-    <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
             <div class="form-group">
                 <label asp-for="BankAccount.Number" class="control-label"></label>
                 <input asp-for="BankAccount.Number" class="form-control" />
@@ -32,6 +32,11 @@
                 <label asp-for="BankAccount.DateOpened" class="control-label"></label>
                 <input asp-for="BankAccount.DateOpened" class="form-control" />
                 <span asp-validation-for="BankAccount.DateOpened" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="BankAccount.AccountHolderId" class="control-label"></label>
+                <select asp-for="BankAccount.AccountHolderId" class ="form-control" asp-items="Model.AccountHolderList"></select>
+                <span asp-validation-for="BankAccount.AccountHolderId" class="text-danger"></span>
             </div>
             <div class="form-group">
                 <input type="submit" value="Create" class="btn btn-primary" />
