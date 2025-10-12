@@ -1,0 +1,48 @@
+@page
+@model EventManagement.Pages.Registrations.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Registrator For Event Below</h1>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Registration[0].Event)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Registration[0].Attendee)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Registration[0].RegisteredAt)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.Registration) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Event.Title)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Attendee.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RegisteredAt)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

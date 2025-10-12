@@ -1,0 +1,38 @@
+﻿@page
+@model EventManagement.Pages.Events.DeleteModel
+
+@{
+    ViewData["Title"] = "Delete Event";
+}
+
+<h1 class="text-danger mb-4">Delete Event</h1>
+
+<h5>Are you sure you want to delete this event?</h5>
+
+<div class="card border-0 shadow-sm mt-4">
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3 fw-semibold">Title</dt>
+            <dd class="col-sm-9">@Model.Event.Title</dd>
+
+            <dt class="col-sm-3 fw-semibold">Description</dt>
+            <dd class="col-sm-9">@Model.Event.Description</dd>
+
+            <dt class="col-sm-3 fw-semibold">Date</dt>
+            <dd class="col-sm-9">@Model.Event.Date.ToString("MMMM dd, yyyy")</dd>
+
+            <dt class="col-sm-3 fw-semibold">Location</dt>
+            <dd class="col-sm-9">@Model.Event.Location</dd>
+
+            <dt class="col-sm-3 fw-semibold">Organizer</dt>
+            <dd class="col-sm-9">@Model.Event.Organizer?.Name</dd>
+        </dl>
+    </div>
+</div>
+
+<form method="post" class="mt-4">
+    <input type="hidden" asp-for="Event.Id" />
+    <button type="submit" class="btn btn-danger me-2">Delete</button>
+    <a asp-page="./Index" class="btn btn-secondary">Cancel</a>
+</form>
+

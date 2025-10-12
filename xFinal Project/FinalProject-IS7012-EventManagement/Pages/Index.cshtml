@@ -1,0 +1,31 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home";
+}
+
+<div class="text-center mt-5">
+    <h1 class="display-4 fw-bold text-primary">Welcome to Bearcat Event Management</h1>
+    <p class="lead mt-3">
+        Plan, organize, and manage your events seamlessly.  
+        This web application allows you to create events, manage organizers and attendees, and track registrations — all in one place.
+    </p>
+
+    <div class="d-flex justify-content-center gap-3 mt-4">
+        <a asp-page="/Events/Index" class="btn btn-primary btn-lg">View Events</a>
+        <a asp-page="/Organizers/Index" class="btn btn-outline-primary btn-lg">Manage Organizers</a>
+        <a asp-page="/Attendees/Index" class="btn btn-outline-secondary btn-lg">View Attendees</a>
+        <a asp-page="/Registrations/Index" class="btn btn-success btn-lg">Registrations</a>
+    </div>
+
+    <hr class="my-5 w-75 mx-auto" />
+
+    <div class="mt-4">
+        <h3 class="text-secondary">About This Application</h3>
+        <p>
+         Event Management is a streamlined web application designed to simplify the process of organizing and attending events.
+        It allows organizers to create and manage events, track attendees, and monitor registrations in real time.
+        Attendees can easily browse upcoming events and register with just a few clicks, creating a smooth experience for both hosts and participants.
+        Whether for conferences, workshops, or community gatherings, this platform keeps events cordinated and organized.
+    </div>
+</div>

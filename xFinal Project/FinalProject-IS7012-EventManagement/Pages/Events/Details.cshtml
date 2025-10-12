@@ -1,0 +1,35 @@
+﻿@page
+@model EventManagement.Pages.Events.DetailsModel
+
+@{
+    ViewData["Title"] = "Event Details";
+}
+
+<h1 class="text-primary mb-4">Event Details</h1>
+
+<div class="card shadow-sm border-0">
+    <div class="card-body">
+        <dl class="row">
+            <dt class="col-sm-3 fw-semibold">Title</dt>
+            <dd class="col-sm-9">@Model.Event.Title</dd>
+
+            <dt class="col-sm-3 fw-semibold">Description</dt>
+            <dd class="col-sm-9">@Model.Event.Description</dd>
+
+            <dt class="col-sm-3 fw-semibold">Date</dt>
+            <dd class="col-sm-9">@Model.Event.Date.ToString("MMMM dd, yyyy")</dd>
+
+            <dt class="col-sm-3 fw-semibold">Location</dt>
+            <dd class="col-sm-9">@Model.Event.Location</dd>
+
+            <dt class="col-sm-3 fw-semibold">Organizer</dt>
+            <dd class="col-sm-9">@Model.Event.Organizer?.Name</dd>
+        </dl>
+
+        <div class="mt-4">
+            <a asp-page="./Edit" asp-route-id="@Model.Event.Id" class="btn btn-warning me-2">Edit</a>
+            <a asp-page="./Index" class="btn btn-secondary">Back to List</a>
+        </div>
+    </div>
+</div>
+
